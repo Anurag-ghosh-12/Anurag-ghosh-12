@@ -9,7 +9,7 @@
 
 <div class="container">
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?text=Anurag&nbsp;Ghosh&animation=scaleIn&type=waving&color=random&height=100&textColor=white"/>
+    <img src="ag-logo.png"/>
   </div>
 
   <div id="badges" align="center">
