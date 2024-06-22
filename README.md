@@ -23,19 +23,19 @@
   <h2>🙋🏻‍♂️About Me</h2>
   <ul>
     <li>
-      <span style="font-size: 20px;">🎓</span> I am a second-year undergraduate student pursuing a B.Tech degree in Computer Science and Technology at the Indian Institute of Engineering Science and Technology, Shibpur.
+      <span style="font-size: 30px;">🎓</span> I am a second-year undergraduate student pursuing a B.Tech degree in Computer Science and Technology at the Indian Institute of Engineering Science and Technology, Shibpur.
     </li>
     <li>
-      <span style="font-size: 20px;">💻</span> My passions lie in the realms of data science, machine learning, and web development.
+      <span style="font-size: 30px;">💻</span> My passions lie in the realms of data science, machine learning, and web development.
     </li>
     <li>
-      <span style="font-size: 20px;">🚀</span> My journey into the world of programming was ignited by a profound curiosity to understand the intricacies of technology.
+      <span style="font-size: 30px;">🚀</span> My journey into the world of programming was ignited by a profound curiosity to understand the intricacies of technology.
     </li>
     <li>
-      <span style="font-size: 20px;">🌳</span> Beyond coding, I find solace in painting, immersing myself in books, and cherishing moments with friends and family.
+      <span style="font-size: 30px;">🌳</span> Beyond coding, I find solace in painting, immersing myself in books, and cherishing moments with friends and family.
     </li>
     <li>
-      <span style="font-size: 20px;">📚</span> 🔭I'm currently working on Deep Learning.<br>🧑‍🤝‍🧑I'm looking to collaborate on Machine Learning, Deep Learning and Web Development Projects. <br>🙋🏻‍♂️Ask me about Neural Networks and Frontend Development.
+      <span style="font-size: 30px;">📚</span> 🔭I'm currently working on Deep Learning.<br>🧑‍🤝‍🧑I'm looking to collaborate on Machine Learning, Deep Learning and Web Development Projects. <br>🙋🏻‍♂️Ask me about Neural Networks and Frontend Development.
     </li>
   </ul>
 
